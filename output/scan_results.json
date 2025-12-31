@@ -1,0 +1,118 @@
+[
+  {
+    "url": "http://volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/",
+    "normalized_url": "http://volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/",
+    "active": true,
+    "http_status": 200,
+    "saved_html": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\html\\volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion_20251231_173226.html",
+    "saved_screenshot": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\screenshots\\volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion_20251231_173226.png",
+    "timestamp_utc": "2025-12-31T14:32:26Z",
+    "duration_ms": 2427
+  },
+  {
+    "url": "http://rudarkznow3mhg6kdbwvvpkzsupjfgrt6id5hae53fdm5iikf77t4pid.onion/cgi-bin/rudark/YaBB.pl",
+    "normalized_url": "http://rudarkznow3mhg6kdbwvvpkzsupjfgrt6id5hae53fdm5iikf77t4pid.onion/cgi-bin/rudark/YaBB.pl",
+    "active": false,
+    "error": "Get \"http://rudarkznow3mhg6kdbwvvpkzsupjfgrt6id5hae53fdm5iikf77t4pid.onion/cgi-bin/rudark/YaBB.pl\": socks connect tcp 127.0.0.1:9150-\u003erudarkznow3mhg6kdbwvvpkzsupjfgrt6id5hae53fdm5iikf77t4pid.onion:80: unknown error unknown code: 240",
+    "timestamp_utc": "2025-12-31T14:32:33Z",
+    "duration_ms": 4637
+  },
+  {
+    "url": "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/",
+    "normalized_url": "http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/",
+    "active": false,
+    "error": "Get \"https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/\": tls: failed to verify certificate: x509: certificate signed by unknown authority",
+    "timestamp_utc": "2025-12-31T14:32:36Z",
+    "duration_ms": 2984
+  },
+  {
+    "url": "http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/",
+    "normalized_url": "http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/",
+    "active": false,
+    "error": "Get \"http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/\": socks connect tcp 127.0.0.1:9150-\u003efnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion:80: unknown error unknown code: 240",
+    "timestamp_utc": "2025-12-31T14:32:40Z",
+    "duration_ms": 3960
+  },
+  {
+    "url": "https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/",
+    "normalized_url": "https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/",
+    "active": false,
+    "error": "Get \"https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)",
+    "timestamp_utc": "2025-12-31T14:33:00Z",
+    "duration_ms": 20000
+  },
+  {
+    "url": "http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/",
+    "normalized_url": "http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/",
+    "active": false,
+    "error": "Get \"http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/\": socks connect tcp 127.0.0.1:9150-\u003enzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion:80: unknown error unknown code: 240",
+    "timestamp_utc": "2025-12-31T14:33:04Z",
+    "duration_ms": 4173
+  },
+  {
+    "url": "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/f/Security",
+    "normalized_url": "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/f/Security",
+    "active": true,
+    "http_status": 200,
+    "saved_html": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\html\\rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion_f_Security_20251231_173313.html",
+    "saved_screenshot": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\screenshots\\rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion_f_Security_20251231_173313.png",
+    "timestamp_utc": "2025-12-31T14:33:13Z",
+    "duration_ms": 8215
+  },
+  {
+    "url": "http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/index.php",
+    "normalized_url": "http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/index.php",
+    "active": true,
+    "http_status": 200,
+    "saved_html": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\html\\w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_index.php_20251231_173322.html",
+    "saved_screenshot": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\screenshots\\w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_index.php_20251231_173322.png",
+    "timestamp_utc": "2025-12-31T14:33:22Z",
+    "duration_ms": 3857
+  },
+  {
+    "url": "http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion/",
+    "normalized_url": "http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion/",
+    "active": true,
+    "http_status": 200,
+    "saved_html": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\html\\cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion_20251231_173336.html",
+    "screenshot_error": "page load error net::ERR_SOCKS_CONNECTION_FAILED",
+    "timestamp_utc": "2025-12-31T14:33:36Z",
+    "duration_ms": 2729
+  },
+  {
+    "url": "http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion/",
+    "normalized_url": "http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion/",
+    "active": true,
+    "http_status": 200,
+    "saved_html": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\html\\germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion_20251231_173342.html",
+    "screenshot_error": "page load error net::ERR_SOCKS_CONNECTION_FAILED",
+    "timestamp_utc": "2025-12-31T14:33:42Z",
+    "duration_ms": 4423
+  },
+  {
+    "url": "http://eprise7j66huuxbdx654pnk4j3ktps6rekmlxmjndqqad6dbvfr2qxad.onion/",
+    "normalized_url": "http://eprise7j66huuxbdx654pnk4j3ktps6rekmlxmjndqqad6dbvfr2qxad.onion/",
+    "active": false,
+    "error": "Get \"http://eprise7j66huuxbdx654pnk4j3ktps6rekmlxmjndqqad6dbvfr2qxad.onion/\": socks connect tcp 127.0.0.1:9150-\u003eeprise7j66huuxbdx654pnk4j3ktps6rekmlxmjndqqad6dbvfr2qxad.onion:80: unknown error unknown code: 240",
+    "timestamp_utc": "2025-12-31T14:33:47Z",
+    "duration_ms": 3904
+  },
+  {
+    "url": "http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion/",
+    "normalized_url": "http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion/",
+    "active": true,
+    "http_status": 200,
+    "saved_html": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\html\\i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion_20251231_173351.html",
+    "saved_screenshot": "C:\\Users\\gazih\\Desktop\\thorscrape\\output\\screenshots\\i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion_20251231_173351.png",
+    "timestamp_utc": "2025-12-31T14:33:51Z",
+    "duration_ms": 4621
+  },
+  {
+    "url": "http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/",
+    "normalized_url": "http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/",
+    "active": false,
+    "error": "Get \"http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/\": socks connect tcp 127.0.0.1:9150-\u003efnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion:80: unknown error unknown code: 240",
+    "timestamp_utc": "2025-12-31T14:34:02Z",
+    "duration_ms": 4152
+  }
+]

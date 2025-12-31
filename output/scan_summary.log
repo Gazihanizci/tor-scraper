@@ -1,0 +1,20 @@
+=== Scan Summary ===
+Timestamp (UTC): 2025-12-31T14:34:02Z
+Total: 13 | Active: 6 | Passive: 7
+
+== Active URLs ==
+- http://volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/ (200) -> html=C:\Users\gazih\Desktop\thorscrape\output\html\volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion_20251231_173226.html screenshot=C:\Users\gazih\Desktop\thorscrape\output\screenshots\volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion_20251231_173226.png
+- http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/f/Security (200) -> html=C:\Users\gazih\Desktop\thorscrape\output\html\rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion_f_Security_20251231_173313.html screenshot=C:\Users\gazih\Desktop\thorscrape\output\screenshots\rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion_f_Security_20251231_173313.png
+- http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/index.php (200) -> html=C:\Users\gazih\Desktop\thorscrape\output\html\w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_index.php_20251231_173322.html screenshot=C:\Users\gazih\Desktop\thorscrape\output\screenshots\w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion_index.php_20251231_173322.png
+- http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion/ (200) -> html=C:\Users\gazih\Desktop\thorscrape\output\html\cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion_20251231_173336.html screenshot_error=page load error net::ERR_SOCKS_CONNECTION_FAILED
+- http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion/ (200) -> html=C:\Users\gazih\Desktop\thorscrape\output\html\germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion_20251231_173342.html screenshot_error=page load error net::ERR_SOCKS_CONNECTION_FAILED
+- http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion/ (200) -> html=C:\Users\gazih\Desktop\thorscrape\output\html\i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion_20251231_173351.html screenshot=C:\Users\gazih\Desktop\thorscrape\output\screenshots\i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion_20251231_173351.png
+
+== Passive URLs ==
+- http://rudarkznow3mhg6kdbwvvpkzsupjfgrt6id5hae53fdm5iikf77t4pid.onion/cgi-bin/rudark/YaBB.pl -> Get "http://rudarkznow3mhg6kdbwvvpkzsupjfgrt6id5hae53fdm5iikf77t4pid.onion/cgi-bin/rudark/YaBB.pl": socks connect tcp 127.0.0.1:9150->rudarkznow3mhg6kdbwvvpkzsupjfgrt6id5hae53fdm5iikf77t4pid.onion:80: unknown error unknown code: 240
+- http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/ -> Get "https://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/": tls: failed to verify certificate: x509: certificate signed by unknown authority
+- http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/ -> Get "http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/": socks connect tcp 127.0.0.1:9150->fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion:80: unknown error unknown code: 240
+- https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/ -> Get "https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+- http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/ -> Get "http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/": socks connect tcp 127.0.0.1:9150->nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion:80: unknown error unknown code: 240
+- http://eprise7j66huuxbdx654pnk4j3ktps6rekmlxmjndqqad6dbvfr2qxad.onion/ -> Get "http://eprise7j66huuxbdx654pnk4j3ktps6rekmlxmjndqqad6dbvfr2qxad.onion/": socks connect tcp 127.0.0.1:9150->eprise7j66huuxbdx654pnk4j3ktps6rekmlxmjndqqad6dbvfr2qxad.onion:80: unknown error unknown code: 240
+- http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/ -> Get "http://fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion/": socks connect tcp 127.0.0.1:9150->fnpctr35hk66vmo4skablcyni7nfoe5xpjwqs7knv3xnmwl4huha76id.onion:80: unknown error unknown code: 240
